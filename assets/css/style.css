@@ -1,0 +1,38 @@
+.page-header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+body{
+    background-image: url("../images/pokebg.jpg");
+}
+
+h1 {
+    font-family: 'Bangers', cursive;
+    font-size: 60px;
+    color: #ffcb05;
+    text-shadow: -3px -3px 0 #2c71b8,
+                 3px -3px 0 #2c71b8,
+                 -3px 3px 0 #2c71b8,
+                 3px 3px 0 #2c71b8;
+    letter-spacing: 5px;
+}
+
+.container{
+    background-color: white;
+    opacity: .7;
+    height:150%;
+    width:75%;
+    padding: 40px;
+}
+
+p{
+    font-family: 'Amaranth', sans-serif;
+    font-size: 20px;
+    color: #696969;
+}
+
+.row{
+    margin-bottom: 20px;
+    border-bottom: black solid 1px;
+}
